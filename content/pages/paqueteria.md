@@ -48,7 +48,7 @@ sections:
       style: primary
       arrow: true
 seo:
-  title: About
+  title: Shipping
   description: This is the about page
   extra:
     - name: 'og:type'
