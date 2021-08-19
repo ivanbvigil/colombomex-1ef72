@@ -10,8 +10,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: advanced
----
----
 title: About
 layout: advanced
 page_css_class: gray-background
