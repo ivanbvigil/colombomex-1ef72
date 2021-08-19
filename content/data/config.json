@@ -19,6 +19,11 @@
             "style": "link"
         },
         {
+            "title": "Tienda",
+            "url": "/store",
+            "style": "link"
+        },
+        {
             "title": "Sobre Nosotros",
             "url": "/about",
             "style": "link"
