@@ -615,3 +615,6 @@ models:
     type: page
     label: shipping
     layout: shipping
+    fields:
+      - name: ''
+        type: string
