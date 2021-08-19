@@ -49,7 +49,7 @@ sections:
       arrow: true
 seo:
   title: Shipping
-  description: This is the about page
+  description: Informacion acerca de paqueteria colombia-mexico
   extra:
     - name: 'og:type'
       value: website
